@@ -1,0 +1,10 @@
+const String bellicon = "assets/bell.png";
+const String avatar = "assets/avatar.png";
+const String verification = "assets/verified.png";
+const String img = "assets/img.jpg";
+const String heart = "assets/heart.png";
+const String comment = "assets/comment.png";
+const String bookmark = "assets/bookmark.png";
+const String more = "assets/more.png";
+const String pinkavatar = "assets/pinkavatr.png";
+const String image = "assets/image.png";
